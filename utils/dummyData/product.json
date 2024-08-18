@@ -1,0 +1,47 @@
+[
+    {
+        "titel": "Voetabl 15 Laptop",
+        "slug": "vaetbl -15- laptop",
+        "quantity":10,
+        "price":29.99,
+        "priceAfterDiscount":100,
+        "description":"This is a description of producte",
+        "category":"laptop",
+        "imageCover":" https://www.pexels.com/fr-fr/photo/ordinateur-portable-semi-ouvert-sous-tension-sur-la-table-2047905/ "
+
+    },
+    {
+        "titel": "Voetabl 15 Laptop",
+        "slug": "vaetbl -15- laptop",
+        "quantity":10,
+        "price":29.99,
+        "priceAfterDiscount":100,
+        "description":"This is a description of producte",
+        "category":"laptop",
+        "imageCover":" https://www.pexels.com/fr-fr/photo/ordinateur-portable-semi-ouvert-sous-tension-sur-la-table-2047905/ "
+
+    },
+    {
+        "title": "Voetabl 15 Laptop",
+        "slug": "vaetbl -15- laptop",
+        "quantity":10,
+        "price":29.99,
+        "priceAfterDiscount":100,
+        "description":"This is a description of producte",
+        "category":"laptop",
+        "imageCover":" https://www.pexels.com/fr-fr/photo/ordinateur-portable-semi-ouvert-sous-tension-sur-la-table-2047905/ "
+
+    },
+    {
+        "titel": "Voetabl 15 Laptop",
+        "slug": "vaetbl -15- laptop",
+        "quantity":10,
+        "price":29.99,
+        "priceAfterDiscount":100,
+        "description":"This is a description of producte",
+        "category":"laptop",
+        "imageCover":" https://www.pexels.com/fr-fr/photo/ordinateur-portable-semi-ouvert-sous-tension-sur-la-table-2047905/ "
+
+    } 
+
+]
